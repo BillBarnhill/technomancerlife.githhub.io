@@ -62,7 +62,13 @@ Game Info
 
 Angryora
 ========
-B  A  R  S  W  L  I  C  ESS  EDG  RES    A  S  D  F
+| B | A | R | S | W | L | I | C | ESS | EDG | RES |
+|---|---|---|---|---|---|---|---|-----|-----|-----|
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |  4  |  4  |  4  |
+
+| A | S | D | F |
+|---|---|---|---|
+| 3 | 2 | 2 | 2 |
 
 Iniative:
 Movement:
