@@ -1,1 +1,9 @@
 theme: jekyll-theme-merlot
+
+# --- General options --- #
+
+# Name of website
+title: Technomancer.life
+
+# Short description of your site
+description: All Things Shadowrun, Cyberpunk, and Future Tech
