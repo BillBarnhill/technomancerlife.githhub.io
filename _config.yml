@@ -7,3 +7,9 @@ title: Technomancer.life
 
 # Short description of your site
 description: All Things Shadowrun, Cyberpunk, and Future Tech
+
+navbar-links:
+  Shadowrun:
+    - It keeps going and going: "https://billbarnhill.github.io/technomancerlife.githhub.io/shadowrun/ecology/energizer"
+  Cyberpunk:
+  Future-Tech:
