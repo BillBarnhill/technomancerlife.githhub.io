@@ -13,9 +13,9 @@ First, what's a Techno-Critter
 Many have heard of awakened animals, like the spirit bear or unicorn. A lot fewer have heard of emergent creatures. Part biological, part resonance infused, they can be found everywhere. 
 
 They all have some traits in common:
-- They consume data either in place of, or in addition to food
-- They interact with resonance
-- They aren't magic. So far we have not found a critter that's both awakened and emergent.
+* They consume data either in place of, or in addition to food
+* They interact with resonance
+* They aren't magic. So far we have not found a critter that's both awakened and emergent.
 
 Other than that they vary greatly:
 - Some can even generate their own host
@@ -72,18 +72,30 @@ Angryora
 | 3 | 2 | 2 | 2 |
 
 Iniative:
+
 Movement:
+
 Cond. Monitor:
+
 Limits:
+
 Armor:
+
 Physical Skills:
+
 Matrix Skills:
+
 Complex Forms:
+
 Powers:
+
 Weaknesses:
+
 Sources
 =======
+
 - Kill Code, p. 171
 
 
-All meterial on this site copyright Bill Barnnhil 2020. Permission to use is given to Shadownet for use on Shadownet.run wiki, and within Shadownet runs.
+All meterial on this site copyright Bill Barnnhill 2020. 
+Permission to use is given to Shadownet for use on Shadownet.run wiki, and within Shadownet runs.
