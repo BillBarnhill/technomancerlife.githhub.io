@@ -32,9 +32,11 @@ Cajun food of all kinds can be found here, and everything is good. Particularly 
 They also serve steak. There's a darker side as well, for a price just about anything can be served up as a dish. Sometimes even long pig.
 
 > That's just slander and you know it.
+
 > Slamm-O
 
 > Nah, that's what he does to customers who don't pay honey.
+
 > Netcat
 
 Drink Specialties
