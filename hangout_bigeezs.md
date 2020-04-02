@@ -45,8 +45,3 @@ Many varieties of the thick soupy ale Hurlg are served here. Biggee is known of 
 
 He typically only serves crafted microbrews otherwise, or specialty cocktails.
 
-[[Category:Lore]]
-[[Category:Location]]
-[[Category:Seattle]]
-[[Category::Renton]]
-[[Category:Noir]]
